@@ -1,0 +1,127 @@
+<mxfile host="app.diagrams.net" modified="2023-07-13T09:35:36.294Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" etag="2Peia4zmJ01LMZZTKwOZ" version="21.6.2" type="device">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="2049" dy="1077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="DI4JeQ9zHKjJOlSPGRIc-29" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;font&gt;&lt;b&gt;Fahrschule&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr&gt;&lt;div&gt;&lt;font&gt;&lt;code class=&quot;!whitespace-pre hljs language-lua&quot;&gt;&lt;b&gt;Name: &quot;Meine Fahrschule&quot;&lt;/b&gt;&lt;br&gt;Adresse: &lt;span class=&quot;hljs-string&quot;&gt;&quot;Musterstraße 123&quot;&lt;/span&gt;&lt;br&gt;Kontaktinfo: &lt;span class=&quot;hljs-string&quot;&gt;&quot;info@fahrschule.com&quot;&lt;/span&gt;&lt;/code&gt;&lt;/font&gt;&lt;/div&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="547" y="80" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DI4JeQ9zHKjJOlSPGRIc-34" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;font&gt;&lt;b&gt;Fahrschüler&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr&gt;&lt;div&gt;&lt;code class=&quot;!whitespace-pre hljs language-lua&quot;&gt;Name: &quot;Jakob&quot;&lt;br&gt;Kontakt: &lt;span class=&quot;hljs-string&quot;&gt;&quot;Jakob@jakob.com&quot;&lt;/span&gt;&lt;br&gt;Fahrstunden: 69&lt;/code&gt;&lt;/div&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="547" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DI4JeQ9zHKjJOlSPGRIc-35" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;b&gt;Fahrzeug&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr&gt;&lt;div&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;code class=&quot;!whitespace-pre hljs language-lua&quot;&gt;Typ: &quot;Auto&quot;&lt;br&gt;Kennzeichen: &lt;span class=&quot;hljs-string&quot;&gt;&quot;ABC123&quot;&lt;/span&gt;&lt;br&gt;Verfügbar: &lt;span class=&quot;hljs-literal&quot;&gt;true&lt;/span&gt;&lt;/code&gt;&lt;/font&gt;&lt;/div&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="547" y="230" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DI4JeQ9zHKjJOlSPGRIc-36" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;font&gt;&lt;b&gt;Fahrlehrer&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr&gt;&lt;div&gt;&lt;code class=&quot;!whitespace-pre hljs language-lua&quot;&gt;Name: &quot;Max&quot;&lt;br&gt;Verfügbar: &lt;span class=&quot;hljs-literal&quot;&gt;true&lt;/span&gt;&lt;/code&gt;&lt;/div&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="547" y="160" width="280" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DI4JeQ9zHKjJOlSPGRIc-37" value="Klassen" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="280" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="DI4JeQ9zHKjJOlSPGRIc-39" value="Fahrschüler: Name, Kontakt, Fahrstunden&lt;br/&gt;Fahrschule: Name, Adresse, Kontakinfo&lt;br/&gt;Fahrlehrer: Name, Verfügbar&lt;br/&gt;Fahrzeug: Typ, Kennzeichen, Verfügbar" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="DI4JeQ9zHKjJOlSPGRIc-37">
+          <mxGeometry y="26" width="240" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="DI4JeQ9zHKjJOlSPGRIc-42" value="Services" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="130" width="200" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="DI4JeQ9zHKjJOlSPGRIc-43" value="SchülerService: terminErhalten&lt;br/&gt;FahrschulService: terminVerteilen&lt;br/&gt;FahrerService: durchführen&lt;br/&gt;FahrzeugService: prüfenVerfügbar" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="DI4JeQ9zHKjJOlSPGRIc-42">
+          <mxGeometry y="26" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DI4JeQ9zHKjJOlSPGRIc-46" value="" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="DI4JeQ9zHKjJOlSPGRIc-34">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="400" y="180" as="sourcePoint" />
+            <mxPoint x="500" y="40" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="181" />
+              <mxPoint x="500" y="181" />
+              <mxPoint x="500" y="40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DI4JeQ9zHKjJOlSPGRIc-49" value="" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;entryX=-0.021;entryY=0.625;entryDx=0;entryDy=0;exitX=1.015;exitY=0.186;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DI4JeQ9zHKjJOlSPGRIc-43" target="DI4JeQ9zHKjJOlSPGRIc-29">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="410" y="190" as="sourcePoint" />
+            <mxPoint x="557" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DI4JeQ9zHKjJOlSPGRIc-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DI4JeQ9zHKjJOlSPGRIc-55" target="DI4JeQ9zHKjJOlSPGRIc-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DI4JeQ9zHKjJOlSPGRIc-70" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DI4JeQ9zHKjJOlSPGRIc-61">
+          <mxGeometry x="-0.8503" relative="1" as="geometry">
+            <mxPoint y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DI4JeQ9zHKjJOlSPGRIc-71" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DI4JeQ9zHKjJOlSPGRIc-61">
+          <mxGeometry x="0.7578" y="1" relative="1" as="geometry">
+            <mxPoint y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DI4JeQ9zHKjJOlSPGRIc-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DI4JeQ9zHKjJOlSPGRIc-55" target="DI4JeQ9zHKjJOlSPGRIc-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DI4JeQ9zHKjJOlSPGRIc-67" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DI4JeQ9zHKjJOlSPGRIc-62">
+          <mxGeometry x="-0.775" relative="1" as="geometry">
+            <mxPoint x="10" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DI4JeQ9zHKjJOlSPGRIc-69" value="&lt;div&gt;n&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DI4JeQ9zHKjJOlSPGRIc-62">
+          <mxGeometry x="0.4964" relative="1" as="geometry">
+            <mxPoint x="10" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DI4JeQ9zHKjJOlSPGRIc-55" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Auftrag&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Kunde&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Auftragtyp&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Abgabedatum: Datum&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="480" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DI4JeQ9zHKjJOlSPGRIc-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DI4JeQ9zHKjJOlSPGRIc-56" target="DI4JeQ9zHKjJOlSPGRIc-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DI4JeQ9zHKjJOlSPGRIc-72" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DI4JeQ9zHKjJOlSPGRIc-65">
+          <mxGeometry x="-0.8" y="2" relative="1" as="geometry">
+            <mxPoint x="8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DI4JeQ9zHKjJOlSPGRIc-75" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DI4JeQ9zHKjJOlSPGRIc-65">
+          <mxGeometry x="0.4408" y="-1" relative="1" as="geometry">
+            <mxPoint x="11" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DI4JeQ9zHKjJOlSPGRIc-56" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Kunde&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div&gt;Name&lt;/div&gt;&lt;div&gt;Email&lt;/div&gt;&lt;div&gt;Telefonnummer&lt;/div&gt;&lt;div&gt;Wunsch&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="480" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DI4JeQ9zHKjJOlSPGRIc-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DI4JeQ9zHKjJOlSPGRIc-57" target="DI4JeQ9zHKjJOlSPGRIc-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DI4JeQ9zHKjJOlSPGRIc-76" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DI4JeQ9zHKjJOlSPGRIc-63">
+          <mxGeometry x="-0.825" y="2" relative="1" as="geometry">
+            <mxPoint x="8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DI4JeQ9zHKjJOlSPGRIc-77" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DI4JeQ9zHKjJOlSPGRIc-63">
+          <mxGeometry x="0.6464" relative="1" as="geometry">
+            <mxPoint x="10" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DI4JeQ9zHKjJOlSPGRIc-57" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Fahrrad&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div&gt;Marke&lt;/div&gt;&lt;div&gt;Model&lt;br&gt;Baujahr&lt;br&gt;Art der reperatur&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="640" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DI4JeQ9zHKjJOlSPGRIc-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DI4JeQ9zHKjJOlSPGRIc-58" target="DI4JeQ9zHKjJOlSPGRIc-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DI4JeQ9zHKjJOlSPGRIc-58" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Wunsch&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div&gt;Ersatzteile&lt;/div&gt;&lt;div&gt;Reperaturdauer&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="640" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DI4JeQ9zHKjJOlSPGRIc-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DI4JeQ9zHKjJOlSPGRIc-59" target="DI4JeQ9zHKjJOlSPGRIc-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DI4JeQ9zHKjJOlSPGRIc-59" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Reperatur&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div&gt;Ersatzteile&lt;/div&gt;&lt;div&gt;Reperaturdauer&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="810" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DI4JeQ9zHKjJOlSPGRIc-60" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Auftrag&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Kunde&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Auftragtyp&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Abgabedatum: Datum&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="810" width="160" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
