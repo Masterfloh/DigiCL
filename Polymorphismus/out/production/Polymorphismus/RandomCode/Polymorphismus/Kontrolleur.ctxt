@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Kontrolleur
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=namen\ tickets\ zone\ datum
+comment2.target=int\ kontrolliere(java.lang.String[],\ Ticket[],\ int,\ java.lang.String)
+numComments=3

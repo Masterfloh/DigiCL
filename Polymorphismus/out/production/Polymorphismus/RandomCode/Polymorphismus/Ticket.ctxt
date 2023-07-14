@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Ticket
+comment1.params=preis
+comment1.target=Ticket(int)
+comment2.params=
+comment2.target=int\ gibPreis()
+comment3.params=
+comment3.target=void\ entwerten()
+comment4.params=
+comment4.target=boolean\ istEntwertet()
+comment5.params=zone
+comment5.target=boolean\ gueltigInZone(int)
+numComments=6

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Generalabo
+comment1.params=preis\ inhaber\ verfallsDatum
+comment1.target=Generalabo(int,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ entwerten()
+comment3.params=
+comment3.target=java.lang.String\ gibVerfallsDatum()
+comment4.params=zone
+comment4.target=boolean\ gueltigInZone(int)
+comment5.params=
+comment5.target=java.lang.String\ gibInhaber()
+numComments=6

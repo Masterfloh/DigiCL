@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Einzelticket
+comment1.params=preis\ verfallsDatum\ zone
+comment1.target=Einzelticket(int,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ gibVerfallsDatum()
+comment3.params=zone
+comment3.target=boolean\ gueltigInZone(int)
+numComments=4
