@@ -1,0 +1,34 @@
+Übungen Basics
+Nachdem du dich im Tutorial zu den Java Grundlagen nun weitreichend mit der Syntax von Java befasst hast, gibt es hier nun einige ÜBungsaufgaben für dich um deine Java-Kentnisse zu testen.
+Die Übungsaufgaben sind von Reinhard Schiedermeier - dem besten Softwareentwicklungs-Prof an der Hochschule München.
+Sie stammen aus seinem Buch Programmieren mit Java welches er freudnlicherweise unter Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License veröffentlicht hat.
+
+Übung 1 - Median
+Schreiben Sie ein Programm Median, das drei Zahlen a, b und c von der
+Kommandozeile einliest und den mittleren der drei Werte wieder ausgibt.
+Hier ist nicht der arithmetische Mittelwert (a + b + c)/3 gemeint.
+Denken Sie sich a, b und c der Größe nach geordnet. Median gibt die Zahl
+aus, die dann in der Mitte steht.
+Ein Beispiel:
+
+$ java Median 2 1 2
+2
+Versuchen Sie mit möglichst wenigen Vergleichen auszukommen.
+
+Übung 2 Zahlenvergleiche
+Das Programm Monoton erhält vier ganze Zahlen auf der Kommandozeile. Das
+Programm soll einen der drei folgenden Buchstaben ausgeben:
+S, wenn jede Zahl echt größer als die vorhergehende Zahl ist (S = streng
+monoton steigend).
+M, wenn jede Zahl größer oder gleich groß wie die vorhergehende Zahl ist
+(M = monoton steigend).
+N ansonsten (N = nicht monoton steigend).
+Einige Beispiele:
+
+$ java Monoton 0 1 2 4
+S
+$ java Monoton 1 3 3 4
+M
+$ java Monoton 1 3 4 1
+N
+Lösen Sie die Aufgabe ohne zusammengesetzte Bedingungen, das heißt ohne logische Operato
